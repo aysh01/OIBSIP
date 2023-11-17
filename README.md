@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://images.app.goo.gl/LCB3rjpUnZdK1S947" width="100"/><br>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh9fq6djey4DP7E3bhi7YPpybPHymPkoOnfg&usqp=CAU" width="100"/><br>
     <a href="https://ayssh.netlify.app">
       <img src="https://img.shields.io/badge/Website-blue?logo=dependabot" alt="Website"/>
   </a><br>
